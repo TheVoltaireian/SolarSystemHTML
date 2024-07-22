@@ -16,7 +16,7 @@ download the zip folder `SSHTMLprojectBUILD0.2.zip` and unzip <br>
 navigate to the `homepage.html` file (project > public > html > homepage.html) <br>
 open the `homepage.html` file and boom <br><br>
 
-## 📂 project file structure
+## 📁 project file structure 📁
 since the project file is a .ZIP file, you can't see the folder structure directly from github. so here's a skeleton of the folder structure.
 
 <pre align="left">
