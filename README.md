@@ -16,6 +16,43 @@ download the zip folder `SSHTMLprojectBUILD0.2.zip` and unzip <br>
 navigate to the `homepage.html` file (project > public > html > homepage.html) <br>
 open the `homepage.html` file and boom <br><br>
 
+## 📂 project file structure
+since the project file is a .ZIP file, you can't see the folder structure directly from github. so here's a skeleton of the folder structure.
+
+<pre align="left">
+📁 SSHTMLprojectBUILD0/📁 project
+├── 📁 public
+│   ├── 📁 html
+│   │   ├── homepage.html
+│   │   ├── contact.html
+│   │   ├── basicsolarsystem.html
+│   │   └── ...
+│   ├── 📁 css
+│   │   ├── homepage.css
+│   │   ├── contact.css
+│   │   ├── basicsolarsystem.css
+│   │   └── ...
+│   └── 📁 assets
+│       ├── 📁 favicons
+│       │   └── ...
+│       ├── 📁 fonts
+│       │   └── ...
+│       ├── 📁 images
+│       │   └── ...
+│       ├── 📁 sounds
+│       │   └── ...
+│       └── 📁 videos   
+│           └── ...
+├── 📁 js  
+│   ├── app
+│   └── testpage
+└── 📁 documents
+    ├── 📁 chapter1
+    │   ├── page1.txt
+    │   └── ...
+    └── secret.txt
+</pre>
+
 ## 🗺️ roadmap 🗺️
 ► complete ui overhaul of the website across all pages <br>
 ► finish the advanced model <br>
