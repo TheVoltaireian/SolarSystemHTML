@@ -12,11 +12,9 @@ https://github.com/user-attachments/assets/6142b85b-f8b4-459b-a2fc-0ed3727266cd
 ► a nice homepage where you can view all models <br><br>
 
 ## ⚙️ how to use/install ⚙️
-<strong>
 download the zip folder `SSHTMLprojectBUILD0.2.zip` and unzip <br>
 navigate to the `homepage.html` file (project > public > html > homepage.html) <br>
-open the `homepage.html` file and boom
-</strong> <br><br>
+open the `homepage.html` file and boom <br><br>
 
 ## 🚀 current goals 🚀
 ► finish the advanced model <br>
