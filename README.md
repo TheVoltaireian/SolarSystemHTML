@@ -75,9 +75,6 @@ this summer:
 ► `homepage.html` character count: 10288 <br>
 ► should you ✨ this repo: yes <br><br>
 
-## ⚡ fun fact ⚡
-this project was based off a solar system HTML tutorial i found on youtube! i forgot the name of the video, lol <br><br>
-
 ## ⚠️ DISCLAIMER!!! ⚠️
 this github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs. <br><br>
 
