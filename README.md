@@ -58,13 +58,13 @@ since the project file is a .ZIP file, you can't see the folder structure direct
 <pre align="left">
 this summer:
      ▼
-     ├── complete ui overhaul of the website across all pages (v0.3)
+     ├── ui overhaul of the website across all pages (v0.3)
      ▼
-     ├── finish the advanced model (v0.4)
+     ├── advanced model (v0.4)
      ▼
-     ├── finish the other 2 secret models (screensaver II, REDACTED) (v0.5, v0.6)
+     ├── 2 secret models (screensaver II, REDACTED) (v0.5, v0.6)
      ▼
-     └── polish up the website and publish (v1.0)
+     └── website polish and publish (v1.0)
 </pre><br>
     
 ## 🚀 stats 🚀
