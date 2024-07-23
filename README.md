@@ -75,4 +75,9 @@ this github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibi
 ## ✨ issues & questions ✨
 ► if you have any questions, shoot me an email at dostalyavoltaire@gmail.com <br>
 ► or if you have any errors, report it in [issues](https://github.com/TheVoltaireian/SolarSystemHTML/issues/new)
+
+<br>
+
+![site wordmark (1)](https://github.com/user-attachments/assets/609c8387-a457-4cf7-942c-cf909877b333)
+
 </div>
