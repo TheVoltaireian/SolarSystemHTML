@@ -51,13 +51,22 @@ since the project file is a .ZIP file, you can't see the folder structure direct
     │   ├── page1.txt
     │   └── ...
     └── secret.txt
-</pre>
+</pre><br>
 
 ## 🗺️ roadmap 🗺️
-► complete ui overhaul of the website across all pages <br>
-► finish the advanced model <br>
-► finish the other 2 secret models (screensaver II, REDACTED) <br><br>
 
+<pre align="left">
+this summer:
+     ▼
+     ├── complete ui overhaul of the website across all pages (v0.3)
+     ▼
+     ├── finish the advanced model (v0.4)
+     ▼
+     ├── finish the other 2 secret models (screensaver II, REDACTED) (v0.5, v0.6)
+     ▼
+     └── polish up the website and publish (v1.0)
+</pre><br>
+    
 ## 🚀 stats 🚀
 ► html file count: 10 <br>
 ► css file count: 10 <br>
